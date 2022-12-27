@@ -15,7 +15,7 @@ So lets start with what this will cover.
    
    This client is feature rich and with the tuning done by the HBD wizards it performs equally to the former champ deluge.
    
-- [ ] [Nightwalker](https://github.com/brettpetch/nightwalker)
+- [ ] [WoQ](https://github.com/gl0ryus/woq)
 
    A theme to give us a dark ui and ratio colors.
 
